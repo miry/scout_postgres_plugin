@@ -1,0 +1,15 @@
+metadata:
+  "% CPU used":          
+    label: CPU Used
+    units: %
+    precision: 0
+  "% MEM used":
+    label: Memmory used
+    units: %
+    precision: 0
+  processes_count:
+    label: Processes count
+    units: %
+    precision: 0
+  larger_is_better: true
+
